@@ -50,6 +50,7 @@ public:
 			if (num < 0 || num > items.size())
 			{
 				cout << "잘못 입력하셨습니다." << endl;
+
 			}
 			else if (!cin)
 			{
